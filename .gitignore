@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+.vs/
+Debug/
+.gitignore
+.gitignore.bak
