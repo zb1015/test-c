@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include "my_math.h"
 int main() {
-	printf("ok");
+	printf("%d",add(12,30));
 }
