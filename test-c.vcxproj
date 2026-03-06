@@ -100,7 +100,6 @@
   <ItemGroup>
     <ClCompile Include="my_math.c" />
     <ClCompile Include="test.c" />
-    <ClCompile Include="test2.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="my_math.h" />
